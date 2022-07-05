@@ -1,1 +1,1 @@
-# quantitative_data
+#I picked this dataset due to COVID being one of the most prominent problems within our society. Even currently around us, Evanston is in the red zone, and because of this, I decided on the current COVID-19 pandemic as my dataset. Additionally, within the dataset, I wanted to see whether or not the size of the country made a difference in the number of COVID-19 cases. I was able to draw the conclusion from my data that the lower the populaton, the lower the number of total cases.
